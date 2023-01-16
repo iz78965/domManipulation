@@ -1,0 +1,42 @@
+#container{
+    background-color: black;
+    width: 70%;
+    height: 70%;
+    display: flex;
+    /* flex-wrap: wrap */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10rem;
+}
+
+#red{
+    background-color: red;
+    color: black;
+    width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#yellow{
+    background-color: yellow;
+    color: black;
+    width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#green{
+    background-color: green;
+    color: black;
+    width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
